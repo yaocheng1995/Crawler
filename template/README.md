@@ -6,10 +6,11 @@ First class are the templating crawler codes by python:
     
     Crawler_template_processing.py
 
-Second class are the example crawler project, which target web is Mafengwo:
+Second class are two example crawler project, which target web  Sina news and Mafengwo:
     
+    sina_news.py
     mafengwo.py
-
-Third class are some element can be used in crawler progress:
+    
+Third class is the element can be used in crawler progress:
     
     Proxy
